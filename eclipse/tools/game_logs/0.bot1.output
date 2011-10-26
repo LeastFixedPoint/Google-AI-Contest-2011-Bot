@@ -1,0 +1,48 @@
+# turn 1
+o 15 5 e
+# turn 2
+o 15 6 e
+# turn 3
+o 15 7 n
+# turn 4
+o 14 7 n
+# turn 5
+o 13 7 n
+# turn 6
+o 12 7 n
+# turn 7
+o 11 7 n
+# turn 8
+o 10 7 n
+# turn 9
+o 9 7 n
+# turn 10
+o 8 7 n
+# turn 11
+o 7 7 n
+# turn 12
+o 6 7 e
+# turn 13
+o 6 8 n
+# turn 14
+o 5 8 n
+# turn 15
+o 4 8 n
+# turn 16
+o 3 8 n
+# turn 17
+o 2 8 e
+# turn 18
+o 2 9 e
+# turn 19
+o 2 10 e
+# turn 20
+o 2 11 e
+# turn 21
+o 2 12 e
+# turn 22
+o 2 13 e
+# turn 23
+o 2 14 e
+# turn 24
+o 2 15 e

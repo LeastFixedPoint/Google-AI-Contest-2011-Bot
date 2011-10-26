@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<target name="copy-resources">
+		<copy todir="${basedir}/bin">
+			<fileset dir="${basedir}/src" includes="**/*.xml" excludes="**/*.scala" />
+		</copy>
+	</target>
+</project>
